@@ -14,7 +14,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/logen3195/E-commerce-Mini-System.git
+   git clone https://github.com/logen3195/FYP2.git
 
 
 2. Move the project to your server directory
@@ -27,15 +27,7 @@ C:\wamp64\www\
 Launch WAMP and ensure Apache/MySQL services are running.
 
 Open your browser and visit:
-http://localhost/E-commerce Mini System
+http://localhost/FYP2
 
 Database 
-- Database and table initialization in PhpMyAdmin
-
-customer email and password (or you can register a new one)
-- logen3195@gmail.com
-- logen3195
-
-admin username and password
-- admin
-- admin123
+- Database and table initialization in PhpMyAdmin (Database structure provided)
