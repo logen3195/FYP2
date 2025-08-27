@@ -32,4 +32,5 @@ http://localhost/FYP2
 Database 
 - Database and table initialization in PhpMyAdmin (Database structure provided)
 
-("C:\wamp64\www\FYP2\images\Screenshot 2025-08-27 171735.png")
+![Screenshot](images/Screenshot%202025-08-27%20171735.png)
+
