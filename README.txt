@@ -31,7 +31,3 @@ http://localhost/FYP2
 
 Database 
 - Database and table initialization in PhpMyAdmin (Database structure provided)
-
-![Screenshot](images/Screenshot%202025-08-27%20171735.png)
-
-
